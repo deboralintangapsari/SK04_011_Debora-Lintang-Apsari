@@ -3,7 +3,7 @@
 ## Biodata 
 Nama : Debora Lintang Apsari |
 NIM : 2609116011 |
-Prodi : Sistem Informasi - A |
+Prodi : Sistem Informasi - A 
 
 ## Penjelasan singkat 
 Program ini berisi data_buku yang disimpan dalam bentuk Dictionary {} agar setiap informasi dapat di simpan dalam key & value nantinya. Dan disini user (Andi) bisa : 
